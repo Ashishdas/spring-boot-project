@@ -1,0 +1,584 @@
+2021-02-03 13:19:31 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:19:31 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:19:31 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:19:31 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9384 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:19:31 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:19:31 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:19:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 4.258 seconds (JVM running for 1018.604)
+2021-02-03 13:19:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 4.697 seconds (JVM running for 5330.089)
+2021-02-03 13:23:56 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9384 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:23:56 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:23:56 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:23:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:23:57 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:23:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:23:59 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.792 seconds (JVM running for 5593.753)
+2021-02-03 13:24:00 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.893 seconds (JVM running for 1283.697)
+2021-02-03 13:24:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:24:02 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:24:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:24:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9384 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:24:02 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:24:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:24:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 1.92 seconds (JVM running for 1287.218)
+2021-02-03 13:24:04 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.436 seconds (JVM running for 5598.905)
+2021-02-03 13:27:12 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:27:12 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:27:12 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:27:29 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 17.767 seconds (JVM running for 19.951)
+2021-02-03 13:31:19 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:31:19 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:31:19 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:31:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9384 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:31:20 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:31:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:31:24 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.949 seconds (JVM running for 255.456)
+2021-02-03 13:31:25 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:31:25 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:31:25 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:31:48 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8332 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:31:48 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:31:48 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:32:07 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 2412 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-03 13:32:07 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-03 13:32:07 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-03 13:33:01 [http-nio-4141-exec-1] DEBUG c.s.t.controller.ProductController -
+				response[Product [id=11, name=raja, quantity=7, price=13.0, doe=null, createdDate=null, lastModifiedDate=null, createdBy=null, modifiedBy=null], Product [id=12, name=rani, quantity=17, price=136.0, doe=null, createdDate=null, lastModifiedDate=null, createdBy=null, modifiedBy=null], Product [id=13, name=rani, quantity=17, price=136.0, doe=2020-01-04 05:47:00.0, createdDate=2021-02-03 11:58:35.0, lastModifiedDate=2021-02-03 11:58:35.0, createdBy=rahul, modifiedBy=null], Product [id=14, name=rupa, quantity=17, price=136.0, doe=2020-01-04 05:47:00.0, createdDate=2021-02-03 12:01:00.0, lastModifiedDate=2021-02-03 12:01:00.0, createdBy=lokesh, modifiedBy=null], Product [id=15, name=rani, quantity=17, price=136.0, doe=2010-01-09 05:37:00.0, createdDate=2021-02-03 12:01:00.0, lastModifiedDate=2021-02-03 12:01:00.0, createdBy=raesk, modifiedBy=null], Product [id=16, name=uuuuuu, quantity=17, price=136.0, doe=2020-01-08 05:37:00.0, createdDate=2021-02-03 12:01:00.0, lastModifiedDate=2021-02-03 12:16:22.0, createdBy=raju, modifiedBy=ashish]] of /products
+2021-02-04 08:34:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9384 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:34:04 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:34:04 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:34:38 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:34:38 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:34:38 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:34:56 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 19.271 seconds (JVM running for 68879.136)
+2021-02-04 08:35:14 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:35:14 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:35:14 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:42:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:42:02 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:42:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:42:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:42:03 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:42:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:42:31 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 27.863 seconds (JVM running for 70806.135)
+2021-02-04 08:44:27 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:44:27 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:44:27 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:44:29 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:44:29 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:44:29 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:44:39 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 13.286 seconds (JVM running for 69462.064)
+2021-02-04 08:47:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:47:18 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:47:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:47:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:47:18 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:47:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:47:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.609 seconds (JVM running for 71096.86)
+2021-02-04 08:48:06 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:48:06 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:48:06 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:48:07 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:48:07 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:48:07 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:48:09 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.353 seconds (JVM running for 71144.88)
+2021-02-04 08:49:09 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:49:09 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:49:09 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:49:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:49:10 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:49:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:49:12 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.757 seconds (JVM running for 69734.593)
+2021-02-04 08:49:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:49:58 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:49:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:49:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:49:58 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:49:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:50:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.587 seconds (JVM running for 71258.957)
+2021-02-04 08:51:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:51:18 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:51:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:51:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:51:18 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:51:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:51:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.445 seconds (JVM running for 69863.866)
+2021-02-04 08:58:50 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:58:50 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:58:50 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:58:50 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:58:50 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:58:50 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:58:53 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.661 seconds (JVM running for 71788.241)
+2021-02-04 08:59:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:59:05 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:59:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:59:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 08:59:05 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 08:59:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 08:59:09 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 4.027 seconds (JVM running for 71804.135)
+2021-02-04 09:00:54 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:00:54 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:00:54 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:00:55 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:00:55 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:00:55 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:00:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.633 seconds (JVM running for 70439.983)
+2021-02-04 09:02:25 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:02:25 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:02:25 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:02:27 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:02:27 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:02:27 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:02:29 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.672 seconds (JVM running for 72004.682)
+2021-02-04 09:03:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:03:52 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:03:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:03:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:03:52 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:03:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:03:59 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 7.311 seconds (JVM running for 70622.13)
+2021-02-04 09:04:08 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:04:08 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:04:08 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:04:08 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:04:08 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:04:08 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:04:11 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 3.069 seconds (JVM running for 72106.295)
+2021-02-04 09:04:56 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:04:56 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:04:56 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:04:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:04:57 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:04:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:05:04 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 7.354 seconds (JVM running for 72159.421)
+2021-02-04 09:05:26 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 5896 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:05:26 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:05:26 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:05:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 11648 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:05:58 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:05:58 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:07:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:07:10 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:07:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:07:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:07:10 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:07:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:07:15 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.076 seconds (JVM running for 70817.602)
+2021-02-04 09:07:42 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 13972 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:07:42 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:07:42 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:37:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 9696 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:37:10 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:37:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:40:13 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:40:13 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:40:13 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:40:43 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 31.787 seconds (JVM running for 72825.354)
+2021-02-04 09:41:06 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:41:06 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:41:06 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:42:13 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 13356 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:42:13 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:42:13 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:48:30 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:48:30 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:48:30 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:51:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:51:35 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:51:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:51:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:51:35 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:51:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:51:43 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 7.542 seconds (JVM running for 73485.239)
+2021-02-04 09:51:45 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 10.333 seconds (JVM running for 74960.132)
+2021-02-04 09:51:53 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 288 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:51:53 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:51:53 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:52:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 9.608 seconds (JVM running for 10.995)
+2021-02-04 09:57:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:57:35 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:57:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:57:36 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:57:36 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:57:36 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:57:40 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.431 seconds (JVM running for 73843.152)
+2021-02-04 09:57:44 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 11464 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:57:44 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:57:44 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:58:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:58:21 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:58:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:58:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 09:58:21 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 09:58:21 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 09:58:24 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 2.945 seconds (JVM running for 73886.866)
+2021-02-04 10:00:17 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 8260 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 10:00:17 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 10:00:17 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 10:00:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 10:00:18 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 10:00:18 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 10:00:28 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 11.357 seconds (JVM running for 75483.813)
+2021-02-04 10:00:49 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 10:00:49 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 10:00:49 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 10:01:00 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 12.341 seconds (JVM running for 13.663)
+2021-02-04 10:14:52 [http-nio-8282-exec-7] DEBUG c.s.t.controller.ProductController -
+				response[] of /products
+2021-02-04 12:13:11 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:13:11 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:13:11 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:13:23 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:13:23 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:13:23 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:13:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 52.975 seconds (JVM running for 7990.133)
+2021-02-04 12:16:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:16:20 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:16:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:16:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:16:20 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:16:20 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:16:43 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 23.026 seconds (JVM running for 82185.227)
+2021-02-04 12:17:17 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:17:17 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:17:17 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:17:19 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:17:19 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:17:19 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:17:25 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 8.413 seconds (JVM running for 8198.828)
+2021-02-04 12:17:32 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:17:32 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:17:32 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:17:32 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:17:32 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:17:32 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:17:37 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.109 seconds (JVM running for 8210.741)
+2021-02-04 12:18:15 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:18:15 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:18:15 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:18:16 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:18:16 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:18:16 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:22:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:22:03 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:22:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:22:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:22:03 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:22:03 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:23:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 14964 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:23:02 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:23:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:23:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 10460 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:23:02 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:23:02 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:23:10 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 8.104 seconds (JVM running for 82573.127)
+2021-02-04 12:23:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 15164 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:23:57 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:23:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:24:53 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 67.602 seconds (JVM running for 85.16)
+2021-02-04 12:27:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 15164 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:27:52 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:27:52 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:27:57 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.229 seconds (JVM running for 268.867)
+2021-02-04 12:33:36 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 15164 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:33:36 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:33:36 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:33:46 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 10.546 seconds (JVM running for 617.87)
+2021-02-04 12:38:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 15164 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:38:35 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:38:35 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
+2021-02-04 12:38:40 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Started SpringMysqlApplication in 5.006 seconds (JVM running for 911.539)
+2021-02-04 12:39:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				Starting SpringMysqlApplication using Java 15 on ASHISH-PC with PID 6620 (E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql\target\classes started by ASHISH in E:\ASHISH\WorkSpaceForAllJavaTech\SpringBootIntegrationWithOtherComponent\spring-mysql)
+2021-02-04 12:39:05 [restartedMain] DEBUG c.s.test.SpringMysqlApplication -
+				Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-04 12:39:05 [restartedMain] INFO  c.s.test.SpringMysqlApplication -
+				No active profile set, falling back to default profiles: default
