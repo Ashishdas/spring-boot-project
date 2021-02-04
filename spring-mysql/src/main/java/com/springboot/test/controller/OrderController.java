@@ -24,6 +24,7 @@ public class OrderController {
 	@Autowired
 	private ProductRepository productRepository;
 
+	//hii how are you
 	@PostMapping("/placeOrder")
 	public Customer placeOrder(@RequestBody OrderRequest orderRequest) {
 		return customerRepository.save(orderRequest.getCustomer());
